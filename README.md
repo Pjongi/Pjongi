@@ -1,4 +1,7 @@
-## Hi there 👋
+## Student informatyki na Politechnice Łódzkiej 
+Robię tak jak mogę czyli średnio, ale kto w tym kraju robi dobrze?
+Języki programowania:
+
 
 <!--
 **Pjongi/Pjongi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
