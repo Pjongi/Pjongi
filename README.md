@@ -5,7 +5,7 @@ Kobiety zmieniam jak rękawiczki </br>
 <h2>Zainteresowania</h2>
 Piwo </br>
 Gry </br>
-</br><h2>Języki programowania:</h2>
+</br><h2>Języki programowania</h2>
 <p float="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="drawing" width="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="drawing" width="30"/>
