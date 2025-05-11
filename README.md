@@ -1,6 +1,6 @@
 
 <h1>Student informatyki na Politechnice Łódzkiej</h1>
-Lubię gry i silniki do gier\
+Lubię gry i silniki do gier<br />
 Piwo też jest fajne podobnie jak ładne kobiety
 </br><h2>Języki programowania</h2>
 <p float="left">
