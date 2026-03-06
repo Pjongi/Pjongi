@@ -1,7 +1,7 @@
 
 <h1>Student informatyki na Politechnice Łódzkiej</h1>
-Lubię gry i silniki do gier</br>
-Piwo też jest fajne podobnie jak ładne kobiety
+Lubię gry <nr>
+Piwo też jest super
 </br><h2>Języki programowania</h2>
 <p float="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="drawing" width="30"/>
